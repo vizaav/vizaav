@@ -1,5 +1,6 @@
 ### yes
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@70d1de58-eb44-47a3-9f90-d6a363fe171c/cf068451-4703-470b-9fbe-aab0ed697e6e.png" /></a>
 <!--
 **vizaav/vizaav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
