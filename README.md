@@ -1,4 +1,4 @@
-### yes
+
 
 # 💫 About Me:
 Hi, I'm Iza. I study Computer Science at Polish-Japanese Academy of Information Technology.
