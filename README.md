@@ -20,13 +20,12 @@
 <h3 align="left">Python projects:</h3>
 
 ###
-
-<p align="left">
-  [A funny Discord bot](https://github.com/vizaav/Iriska_Discord_bot)
+ [A funny Discord bot](https://github.com/vizaav/Iriska_Discord_bot)
+ 
   [A project using Pygame](https://github.com/vizaav/PyGaming)
   [Knapsack problem](https://github.com/vizaav/problem_plecakowy)
   [Neural network detecting languages](https://github.com/vizaav/problem_plecakowy)
-</p>
+
 
 ###
 
