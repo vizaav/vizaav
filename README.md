@@ -8,12 +8,11 @@
 
 ###
 
-<p align="left">
-  [Personal webiste](https://github.com/vizaav/vizaav.github.io)
-  [Cute lil calculator using JS](https://github.com/vizaav/calculator)
-</p>
-<p align="left">  [An online shop website - Tailwind practice](https://github.com/vizaav/my-first-page)</p>
-<p align="left">  [Cute lil calculator using JS](https://github.com/vizaav/calculator)</p>
+
+[Personal webiste](https://github.com/vizaav/vizaav.github.io)
+[Cute lil calculator using JS](https://github.com/vizaav/calculator)
+[An online shop website - Tailwind practice](https://github.com/vizaav/my-first-page)
+[Cute lil calculator using JS](https://github.com/vizaav/calculator)
 
 
 ###
