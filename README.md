@@ -10,9 +10,13 @@
 
 
 [Personal webiste](https://github.com/vizaav/vizaav.github.io)
+
 [Cute lil calculator using JS](https://github.com/vizaav/calculator)
+
 [An online shop website - Tailwind practice](https://github.com/vizaav/my-first-page)
+
 [Cute lil calculator using JS](https://github.com/vizaav/calculator)
+
 
 
 ###
@@ -23,7 +27,9 @@
  [A funny Discord bot](https://github.com/vizaav/Iriska_Discord_bot)
  
   [A project using Pygame](https://github.com/vizaav/PyGaming)
+  
   [Knapsack problem](https://github.com/vizaav/problem_plecakowy)
+  
   [Neural network detecting languages](https://github.com/vizaav/problem_plecakowy)
 
 
