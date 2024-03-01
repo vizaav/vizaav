@@ -15,7 +15,6 @@
 
 [An online shop website - Tailwind practice](https://github.com/vizaav/my-first-page)
 
-[Cute lil calculator using JS](https://github.com/vizaav/calculator)
 
 
 
