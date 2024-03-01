@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+  [Personal webiste](https://github.com/vizaav/vizaav.github.io)
+  [An online shop website - Tailwind practice](https://github.com/vizaav/my-first-page)
+  [Cute lil calculator using JS](https://github.com/vizaav/calculator)
+</p>
 
 ###
 
@@ -16,25 +20,16 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+  [A funny Discord bot](https://github.com/vizaav/Iriska_Discord_bot)
+  [A project using Pygame](https://github.com/vizaav/PyGaming)
+  [Knapsack problem](https://github.com/vizaav/problem_plecakowy)
+  [Neural network detecting languages](https://github.com/vizaav/problem_plecakowy)
+</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+
 
 ###
 
