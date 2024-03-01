@@ -47,7 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vizaav/vizaav/output/snake.svg" alt="Snake animation" />
 
 ###
 
