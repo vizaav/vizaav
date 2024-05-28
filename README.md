@@ -29,7 +29,7 @@
   
   [Knapsack problem](https://github.com/vizaav/problem_plecakowy)
   
-  [Neural network detecting languages](https://github.com/vizaav/problem_plecakowy)
+  [Neural network detecting languages](https://github.com/vizaav/neural_network)
 
 
 ###
